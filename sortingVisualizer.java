@@ -1,3 +1,13 @@
+/*******************************
+ * 
+ * Project: Sorting algorithm visualizer
+ * Language: Java
+ * Date: September 2021
+ * 
+ * Dev: Jayed Rafi
+ *
+*******************************/
+
 import java.util.Scanner;
 public class sortingVisualizer
 {
